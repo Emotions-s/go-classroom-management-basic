@@ -1,7 +1,0 @@
-package config
-
-import "github.com/jogo/godotenv"
-
-func loadenv() {
-	err := godotenv.Load()
-}

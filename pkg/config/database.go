@@ -13,7 +13,6 @@ var (
 )
 
 func Connect() {
-
 	username := os.Getenv("USERNAME")
 	password := os.Getenv("PASSWORD")
 	host := os.Getenv("HOST")

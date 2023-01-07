@@ -1,7 +1,6 @@
 package routes
 
 import (
-	"github.com/Emotions-s/go-classroom-management-basic/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
